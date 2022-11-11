@@ -2,7 +2,7 @@
 
 Set your game to windowed fullscreen or you will crash.
 
-**Configs are located in the csgo folder**
+**Configs in csgo folder.**
 
 -----------------------------------------
 
@@ -12,5 +12,5 @@ You need to download the DirectX SDK from June 2010: https://www.microsoft.com/e
 
 Also need to install VS2019 and VS2017 build tools.
 
-Use these settings when opening the solution (an older SDK version will work also).
+Use these settings when opening the solution (an older SDK support too).
 ![image](https://user-images.githubusercontent.com/45910586/196135348-893f8494-66df-4467-ad1b-127a2fa042cd.png)
